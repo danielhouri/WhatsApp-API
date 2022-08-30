@@ -17,8 +17,3 @@ The access is permitted just for a user that has a token (Issued at login).
 - Also you need to set up the databasse: **'Update-Database' (on each part)**.<br />
 - The connection string is configured to **work with MariaDB**, you have to change th username and password to connect.
 - Install: JWT, SignalR, MariaDB.
-
-## Submitting
-
-- Daniel Houri: 314712563
-- Dor Huri: 209409218
